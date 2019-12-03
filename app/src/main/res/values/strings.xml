@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">단기구인구직 헛둘셋</string>
+    <string name="url">http://www.tinywork.co.kr/</string>
+    <string name="domain">http://www.tinywork.co.kr/</string>
+    <string name="appinfo">http://www.tinywork.co.kr/theme/app/info2.php</string>
+    <string name="list_url0">http://www.tinywork.co.kr/bbs/logout.php</string>
+    <string name="list_url1">http://www.tinywork.co.kr/bbs/board.php?bo_table=notice</string>
+    <string name="list_url2">http://www.tinywork.co.kr/bbs/board.php?bo_table=qna</string>
+    <string name="list_url3">http://www.tinywork.co.kr/bbs/board.php?bo_table=help</string>
+    <string name="list_url4">http://www.tinywork.co.kr/bbs/content.php?co_id=service_terms</string>
+    <string name="list_url5">http://www.tinywork.co.kr/bbs/content.php?co_id=service_position</string>
+    <string name="list_url6">http://www.tinywork.co.kr/bbs/content.php?co_id=service_money</string>
+    <string name="list_url7">http://www.tinywork.co.kr/bbs/content.php?co_id=service_refund</string>
+    <string name="list_url8">http://www.tinywork.co.kr/bbs/content.php?co_id=service_service</string>
+    <string name="list_url9">http://www.tinywork.co.kr/bbs/content.php?co_id=service_table</string>
+    <string name="list_url10">http://www.tinywork.co.kr/bbs/content.php?co_id=service_info</string>
+    <string name="tab_url">http://www.tinywork.co.kr/bbs/board.php?bo_table=service</string>
+    <string name="kakao_app_key">8d2152b6a7b73dc69bc35e1bbc4d4980</string>
+
+    <string name="kakao_scheme">kakao8d2152b6a7b73dc69bc35e1bbc4d4980</string>
+
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
